@@ -1,0 +1,19 @@
+Congestion Recovery
+
+Copyright 2026 Summon Software Labs
+
+Congestion Recovery is an open-source, vendor-neutral C++20 runtime for
+generation-bound recovery governance after congestion intervention: staged
+restoration, hysteresis, revalidation, compensating rollback and recovery
+authority.
+
+This product is licensed under the Apache License, Version 2.0. See the
+LICENSE file in this distribution for the full license text.
+
+Congestion Recovery does not collect or transmit any telemetry. All telemetry is
+written to local files chosen by the operator and never leaves the machine
+running the software.
+
+Congestion Recovery accepts contributions from individuals and organizations on the
+terms of the Apache License 2.0 without requiring a Contributor License
+Agreement (CLA). See CONTRIBUTING.md for contribution guidance.
